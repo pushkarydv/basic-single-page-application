@@ -34,7 +34,7 @@ example url
   this will basically hide it from page and it will be called when url changes fir example
 
   `https://basicspa.vercel.app/#three`
-  this page will only show section of id three ather all pages added will be hidden
+  this page will only show section of id three other all pages added will be hidden
 
 - setting main page of app
 
