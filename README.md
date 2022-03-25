@@ -20,6 +20,7 @@ example url
 - adding pages
 
   <h3> give id to a section of page and then add it using inbuilt function </h3>
+
   ```html
   <section id="page1"></section>
   ```
