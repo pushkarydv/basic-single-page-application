@@ -47,3 +47,9 @@ example url
   ```js
   pagesInit();
   ```
+  
+- redirect without refreshing
+- 
+  ```html
+  <a href="#one" class="pageLink" onclick="goToPage('one')">go to one</a>
+  ```
