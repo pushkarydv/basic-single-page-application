@@ -2,6 +2,11 @@
 
 ## a easy way to create basic single page application without even using things like router
 
+example url
+
+- https://basicspa.vercel.app/#three
+- https://basicspa.vercel.app/#two
+
 ## usage
 
 - add cdn link to your html file in end of body
